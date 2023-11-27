@@ -1,6 +1,4 @@
 # File:   7-puppet_install_nginx_web_server.pp
-# Author: Alex Orland Arévalo Tribaldos
-# email:  <3915@holbertonschool.com>
 
 # Using Puppet| Install Nginx server, setup and configuration
 
